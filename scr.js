@@ -1,0 +1,4 @@
+const OPTIONS = {
+    method: 'GET'
+    
+}
